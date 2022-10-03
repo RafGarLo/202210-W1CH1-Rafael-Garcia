@@ -1,0 +1,24 @@
+{
+  "name": "challenge-1",
+  "version": "1.0.0",
+  "description": "calculadora html css js",
+  "main": "calcproject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafGarLo/202210-W1CH1-Rafael-Garcia.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Rafael Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafGarLo/202210-W1CH1-Rafael-Garcia/issues"
+  },
+  "homepage": "https://github.com/RafGarLo/202210-W1CH1-Rafael-Garcia#readme"
+}
